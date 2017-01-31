@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Week2_demo1</string>
     <string name="clickBtn_txt">CLICK ME</string>
-    <string name="getBack">BACK</string>
+    <string name="getBack">BACK HOME</string>
+    <string name="backHome">BACK HOME</string>
 </resources>

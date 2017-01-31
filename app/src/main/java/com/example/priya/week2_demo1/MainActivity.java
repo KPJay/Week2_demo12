@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void mOnClick(View view) {
-        Intent intent = new Intent(this,Main2Activity.class);
+        Intent intent = new Intent(this, Main2Activity.class);
         startActivity(intent);
     }
 }
