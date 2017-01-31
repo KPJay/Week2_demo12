@@ -22,7 +22,13 @@ public class Main2Activity extends AppCompatActivity {
             }
         });
         }
+
+    public void rOnclick(View view) {
+        Intent intent = new Intent(this, Main3Activity.class);
+        startActivity(intent);
     }
+}
+
 
 
 

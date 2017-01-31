@@ -3,4 +3,7 @@
     <string name="clickBtn_txt">CLICK ME</string>
     <string name="getBack">BACK HOME</string>
     <string name="backHome">BACK HOME</string>
+    <string name="goAway">Go Elsewhere</string>
+    <string name="activity2Head">Another View</string>
+    <string name="activity3Head">Third View</string>
 </resources>

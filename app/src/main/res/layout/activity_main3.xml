@@ -15,11 +15,11 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Third Page" />
+        android:text="@string/activity3Head" />
     <Button
         android:id="@+id/thirdBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/backHome"/>
+        android:text="@string/backHome" />
 
 </LinearLayout>
